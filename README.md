@@ -1,2 +1,3 @@
-# Script-v.1
-Http Headers &amp; Tcp port scanner
+# DarkSecArmy.COM
+# PcDunyasi.tv
+Http Header &amp; TCP Port scanner .
